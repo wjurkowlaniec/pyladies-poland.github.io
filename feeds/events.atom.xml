@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>pyladies-poland.github.io</title><link href="/" rel="alternate"></link><link href="/feeds/events.atom.xml" rel="self"></link><id>/</id><updated>2015-10-22T00:23:00+02:00</updated><entry><title>Hackathon Wysadź Ulicę - Malta</title><link href="/events/komitywa-hackathon/" rel="alternate"></link><published>2015-10-22T00:23:00+02:00</published><updated>2015-10-22T00:23:00+02:00</updated><author><name>PyLadies Poland</name></author><id>tag:,2015-10-21:events/komitywa-hackathon/</id><summary type="html">&lt;!-- -*- coding: utf-8 -*- --&gt;
+&lt;p&gt;Hackathon Wysadź Ulicę&lt;/p&gt;
+</summary></entry><entry><title>PyTrening z PyLadies 2.0 w Poznaniu</title><link href="/events/pytrening-poznan/" rel="alternate"></link><published>2015-10-22T00:11:00+02:00</published><updated>2015-10-22T00:11:00+02:00</updated><author><name>PyLadies Poland</name></author><id>tag:,2015-10-21:events/pytrening-poznan/</id><summary type="html">&lt;!-- -*- coding: utf-8 -*- --&gt;
+&lt;p&gt;Darmowe warsztaty dla początkujących entuzjastów Pythona prowadzone są w każdą środę w trakcie
+roku akademickiego.&lt;/p&gt;
+&lt;p&gt;Na każdym spotkaniu pracujemy w oparciu o zaproponowane przez głównego mentora zadanie.
+Rozwiązujemy je wykorzystując poznane wcześniej mechanizmy języka. W toku pracy poznajemy
+nowe, kolejne narzędzia.&lt;/p&gt;
+&lt;p&gt;W zajęciach aktywnie uczestniczy grupa mentorów, którzy na bieżąco nakierowują poszczególnych
+uczestników na właściwy trop.&lt;/p&gt;
+&lt;p&gt;Udział w kolejnych warsztatach może wymagać pewnej dozy systematycznej pracy  w domu. Na
+kolejnych spotkaniach nie robimy wielu powtórek. Staramy się szybko wprowadzać nowe narzędzia,
+tak by mogli do nas dołączać kolejni, nowi entuzjaści o nieco wyższym poziomie znajomości języka.
+Posiadamy materiały, które mogą posłużyć do samodzielnego nadrobienia ewentualnych zaległości.&lt;/p&gt;
+&lt;p&gt;Do udziału w warsztatach nie jest potrzebne wykształcenie informatyczne. Zapraszamy osoby w
+każdym wieku. Panowie są także mile widziani!&lt;/p&gt;
+&lt;p&gt;Do warsztatów można dołączyć w dowolnej chwili, nie są wymagane zapisy.&lt;/p&gt;
+&lt;p&gt;Spotkania odbywają się w Centrum Wykładowym Politechniki Poznańskiej na ulicy Piotrowo 2 w
+Poznaniu w godzinach 18:30-20:00, sala nr 1 przy biurku ochrony.&lt;/p&gt;
+&lt;p&gt;Na zajęcia przychodzimy z własnym laptopem. Na miejscu zapewniamy przedłużacze oraz dostęp do sieci.&lt;/p&gt;
+&lt;p&gt;Bieżącą i bardziej szczegółową informację o nadchodzących warsztatach znajdzesz poniżej oraz
+na &lt;a class="reference external" href="http://facebook.com/pyladiespoznan"&gt;Facebook&lt;/a&gt;'u.&lt;/p&gt;
+&lt;p&gt;Zapraszamy!&lt;/p&gt;
+</summary></entry><entry><title>Warsztat ze wstępu do TDD na PyConPL 2016</title><link href="/events/tdd-pyconpl-2015/" rel="alternate"></link><published>2015-10-21T23:39:00+02:00</published><updated>2015-10-21T23:39:00+02:00</updated><author><name>PyLadies Poland</name></author><id>tag:,2015-10-17:events/tdd-pyconpl-2015/</id><summary type="html">&lt;!-- -*- coding: utf-8 -*- --&gt;
+&lt;p&gt;Podczas konferencji PyConPL 2015 Ania Wszeborowska z PyLadies Poland poprowadziła warsztat ze wstępu do Test-Driven Development.&lt;/p&gt;
+</summary></entry></feed>
